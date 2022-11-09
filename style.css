@@ -398,6 +398,7 @@ section {
 .fjob .content ul {
   list-style: none;
   padding: 0;
+  margin-top: 15px;
 }
 
 .fjob .content ul li {
